@@ -1,0 +1,23 @@
+{
+  "name": "jsonmeta",
+  "version": "0.0.1-alpha.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fayfang/JSONMeta.git"
+  },
+  "keywords": [
+    "json",
+    "meta"
+  ],
+  "author": "fangyiyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fayfang/JSONMeta/issues"
+  },
+  "homepage": "https://github.com/fayfang/JSONMeta#readme"
+}
